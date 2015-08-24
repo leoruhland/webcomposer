@@ -10,7 +10,7 @@ Clone this repository(or just download and move it) to some specific folder in y
 
 Access in the browser: `http://example.com/webcomposer/index.php`.
 
-Provide auth password ( admin / w3bC0mp053R )
+Provide user and password ( admin / w3bC0mp053R )
 
 You should change the password of your file in the first lines of the index.php.
 
